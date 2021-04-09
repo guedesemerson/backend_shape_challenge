@@ -20,7 +20,7 @@ You can get started building this application locally.
 pip install -r requirements.txt
 python manage.py migrate
 ```
-### OPTIONAL: Register an administrator locally to test:
+### OPTIONAL: Register an administrator locally:
 ```bash
 python manage.py createsuperuser
 ```
